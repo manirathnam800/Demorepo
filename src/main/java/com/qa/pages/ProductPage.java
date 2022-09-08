@@ -10,5 +10,9 @@ public class ProductPage {
 	public ProductPage() {
 		// TODO Auto-generated constructor stub
 	}
+	
+	public cartPage(){
+	   System.out.println("Cart Page ");
+	}
   }
 }	
